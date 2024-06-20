@@ -37,7 +37,7 @@ Then the other models were built
 
 The basic models had lower accuracy scores, and high precision scores, Logistic Regression and SVM continued to provide good AUC however more fine-tuning was required to find better accuracy scores.
 
-<img src="images/3.png" alt="null" width="1800" height="800"></img>
+<img src="images/3.png" alt="null" width="1200" height="800"></img>
 
 
 ### Evaluation
@@ -49,7 +49,8 @@ In order to find the best hyperparmeters GridsearchCV was utilized and the outco
 
 Even though in the base model the Decision Tree seems to be doing the best with greater than 91% accuracy, I graphed the ROC curve which showed that the AUC for Decision tree is less than 75% and for that reason Decision Tree were not evaluated to be the best model for this purpose.
 For Logistic Regression the AUC is 93% which in long term will provide the most accurate predictions and so for that reason even though with an accuracy score of 90.69% Logistic Regression model is proposed solution.
-<img src="images/5.png" alt="null" width="1800" height="400"></img>
+
+<img src="images/5.png" alt="null" width="1200" height="350"></img>
 
 
 
