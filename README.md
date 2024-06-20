@@ -65,5 +65,6 @@ Recommendation:
 This accuracy could be further improved with experimenting removing more features and testing out the results to find even better performance model. The banks can utilize the data and use it for marketing to the right set of customers at the right time.
 ##### Next steps:
 
-The recommended items which could be utilized to further improve the accuracy of the data
+The recommended items which could be utilized to further improve the accuracy of the data 
 1. Comparing the classifiers for the top ten campaigns to see if the performance of the models increase since these have the largest samples of customers.
+2. Figuring out if there are features which could be eliminated in order to attain even more accurate models and be able to get closer to 95% accuracies for better outcomes for the business.
